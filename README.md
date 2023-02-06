@@ -12,12 +12,7 @@
 </div>
 <br/>
 
-## Do you have any project for Me?
-**[place order](https://www.fiverr.com/baaztech897)**
-<a href="https://www.fiverr.com/baaztech897" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg" alt="weblint fiverr" height="30" width="30" /></a>&nbsp;
-<br/>
-
-<h2>About</h2>
+<h2 align="center">About</h2>
 
 Welcome to <a href="https://www.youtube.com/@weblintreal?sub_confirmation=1"><b>Weblint</b></a>!
 
@@ -33,23 +28,23 @@ Welcome to <a href="https://www.youtube.com/@weblintreal?sub_confirmation=1"><b>
 
 [![Villa Booking System](https://github-readme-stats.vercel.app/api/pin/?username=weblintreal&repo=villa-booking-system-apis)](https://github.com/anuraghazra/github-readme-stats)
 
-<3> Streak Stats</h3>
+<h3 align="center"> Streak Stats</h3>
  <br>
  
  [![GitHub Streak](https://streak-stats.demolab.com?user=weblintreal&theme=dark)](https://git.io/streak-stats)
 
  <br/> 
 
-<h3>Github Activity</h3>
+<h3 align="center">Github Activity</h3>
 
  [![Weblintreal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=weblintreal&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 
 <details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <summary><h2 align="center">🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-  <h3>👨‍💻 Programming and Markup Languages</h3>
+  <h3 align="center">👨‍💻 Programming and Markup Languages</h3>
 
   <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
@@ -63,7 +58,7 @@ Welcome to <a href="https://www.youtube.com/@weblintreal?sub_confirmation=1"><b>
 
   </p>
 
-  <h3>🧰 Frameworks and Libraries</h3>
+  <h3 align="center">🧰 Frameworks and Libraries</h3>
 
   <p>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
@@ -79,7 +74,7 @@ Welcome to <a href="https://www.youtube.com/@weblintreal?sub_confirmation=1"><b>
     <a href="#"><img alt="PyUnit" src="https://img.shields.io/badge/PyUnit----blue"></a>
   </p>
 
-  <h3>🗄️ Databases and Cloud Hosting</h3>
+  <h3 align="center">🗄️ Databases and Cloud Hosting</h3>
 
   <p>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
@@ -88,7 +83,7 @@ Welcome to <a href="https://www.youtube.com/@weblintreal?sub_confirmation=1"><b>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
   </p>
 
-  <h3>💻 Software and Tools</h3>
+  <h3 align="center">💻 Software and Tools</h3>
 
   <p>
       <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu----orange"></a>
@@ -103,6 +98,6 @@ Welcome to <a href="https://www.youtube.com/@weblintreal?sub_confirmation=1"><b>
 </details>
 
 
-### Latest Tweets
+<h3 align="center">Latest Tweets</h3>
 
 <p><a href="https://www.twitter.com/weblintreal"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=weblintreal&amp;layout=wide" alt="github-readme-twitter"></a></p>
