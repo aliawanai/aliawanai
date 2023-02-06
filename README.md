@@ -105,7 +105,8 @@ Welcome to <a href="https://www.youtube.com/@weblintreal?sub_confirmation=1"><b>
   </p>
 </details>
 
-
+<div align="center">
 <h3 align="center">Latest Tweets</h3>
 
 <p><a href="https://www.twitter.com/weblintreal"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=weblintreal&amp;layout=wide" alt="github-readme-twitter"></a></p>
+</div>
