@@ -34,6 +34,27 @@ Welcome to <a href="https://www.youtube.com/@weblintreal?sub_confirmation=1"><b>
 
 <p><a href="https://www.twitter.com/weblintreal"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=weblintreal&amp;layout=wide" alt="github-readme-twitter"></a></p>
 
+
+### Github Stats and Activity
+
+#### Streak Stats
+ <br>
+ 
+ [![GitHub Streak](https://streak-stats.demolab.com?user=weblintreal&theme=dark)](https://git.io/streak-stats)
+
+ <br/> 
+
+#### GitHub Profile Stats
+ 
+ [![Weblintreal's GitHub stats](https://github-readme-stats.vercel.app/api?username=weblintreal&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weblintreal&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+ <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+ 
+ [![Weblintreal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=weblintreal&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
  
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
@@ -90,25 +111,4 @@ Welcome to <a href="https://www.youtube.com/@weblintreal?sub_confirmation=1"><b>
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
-</details>
-
-<details>
-  <summary><h2>📊 Github Stats and Activity</h2></summary>
-  <h3>🔥 Streak Stats</h3>
- <br>
- 
- [![GitHub Streak](https://streak-stats.demolab.com?user=weblintreal&theme=dark)](https://git.io/streak-stats)
-
- <br/> 
-
-<h3> GitHub Profile Stats</h3>
- 
- [![Weblintreal's GitHub stats](https://github-readme-stats.vercel.app/api?username=weblintreal&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
- 
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weblintreal&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  
- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
- 
- [![Weblintreal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=weblintreal&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </details>
