@@ -33,14 +33,14 @@ Welcome to <a href="https://www.youtube.com/@weblintreal?sub_confirmation=1"><b>
 
 [![Villa Booking System](https://github-readme-stats.vercel.app/api/pin/?username=weblintreal&repo=villa-booking-system-apis)](https://github.com/anuraghazra/github-readme-stats)
 
-### Streak Stats
+<3> Streak Stats</h3>
  <br>
  
  [![GitHub Streak](https://streak-stats.demolab.com?user=weblintreal&theme=dark)](https://git.io/streak-stats)
 
  <br/> 
 
-### Github Activity
+<h3>Github Activity</h3>
 
  [![Weblintreal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=weblintreal&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
