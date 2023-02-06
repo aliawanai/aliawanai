@@ -25,31 +25,24 @@ Welcome to <a href="https://www.youtube.com/@weblintreal?sub_confirmation=1"><b>
 <p>Thanks for stopping by and happy coding!</p>
 
 <h2 align="center">Top Projects</h2>
-
-[![Villa Booking System](https://github-readme-stats.vercel.app/api/pin/?username=weblintreal&repo=villa-booking-system-apis)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Mechtrip](https://github-readme-stats.vercel.app/api/pin/?username=weblintreal&repo=mechtrip)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weblintreal&repo=villa-booking-system-apis" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weblintreal&repo=mechtrip" />
 </a>
+</div>
 
 
 <h3 align="center"> Streak Stats</h3>
- <br>
  
+ <div align="center">
  <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://streak-stats.demolab.com?user=weblintreal&theme=dark" />
  </a>
-
- [![GitHub Streak](https://streak-stats.demolab.com?user=weblintreal&theme=dark)](https://git.io/streak-stats)
+ </div>
  
- <br/> 
-
 <h3 align="center">Github Activity</h3>
 
  [![Weblintreal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=weblintreal&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
