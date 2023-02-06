@@ -95,8 +95,10 @@ Welcome to <a href="https://www.youtube.com/@weblintreal?sub_confirmation=1"><b>
 <details>
   <summary><h2>📊 Github Stats and Activity</h2></summary>
   <h3>🔥 Streak Stats</h3>
+ <br>
  
- [![GitHub Streak](https://streak-stats.demolab.com?user=weblintreal&theme=dark&hide_border=true)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=weblintreal&theme=dark&hide_border=true)]
+ (https://git.io/streak-stats)
 
  <br/> 
 
