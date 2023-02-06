@@ -42,11 +42,6 @@ Welcome to <a href="https://www.youtube.com/@weblintreal?sub_confirmation=1"><b>
   <img align="center" src="https://streak-stats.demolab.com?user=weblintreal&theme=dark" />
  </a>
  </div>
- 
-<h3 align="center">Github Activity</h3>
-
- [![Weblintreal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=weblintreal&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
 
 <details> 
   <summary><h2 align="center">🛠️ My Favorite Tools</h2></summary>
