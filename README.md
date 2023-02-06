@@ -25,7 +25,7 @@ Welcome to <a href="https://www.youtube.com/@weblintreal?sub_confirmation=1"><b>
 <p>Thanks for stopping by and happy coding!</p>
 
 <h2 align="center">Top Projects</h2>
-<div>
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weblintreal&repo=villa-booking-system-apis" />
 </a>
