@@ -69,7 +69,7 @@ Welcome to <a href="https://www.youtube.com/@weblintreal?sub_confirmation=1"><b>
       <a href="#"><img alt="Tailwind-CSS" src="https://img.shields.io/badge/Tailwind--CSS----blue"></a>
   </div>
 
-  <h3 align="center">🗄️ Databases and Cloud Hosting</h3>
+  <h3 align="center">🗄️ Databases</h3>
 
   <div align="center">
       <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
