@@ -33,11 +33,9 @@ Welcome to <a href="https://www.youtube.com/@weblintreal?sub_confirmation=1"><b>
 
 <h3 align="center"> Streak Stats</h3>
  <br>
- <div margin="0 auto">
  
- [![GitHub Streak](https://streak-stats.demolab.com?user=weblintreal&theme=dark)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=weblintreal&theme=dark&card_width=100%)](https://git.io/streak-stats)
  
-</div>
  <br/> 
 
 <h3 align="center">Github Activity</h3>
