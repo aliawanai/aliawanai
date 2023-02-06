@@ -106,7 +106,7 @@ Welcome to <a href="https://www.youtube.com/@weblintreal?sub_confirmation=1"><b>
  [![Weblintreal's GitHub stats](https://github-readme-stats.vercel.app/api?username=weblintreal&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
  
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weblintreal)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weblintreal&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
  
