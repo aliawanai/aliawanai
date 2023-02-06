@@ -66,7 +66,7 @@ Welcome to <a href="https://www.youtube.com/@weblintreal?sub_confirmation=1"><b>
 
   <div align="center">
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-      <a href="#"><img alt="Tailwind-CSS" src="https://img.shields.io/badge/tailwindcss.svg?logo=tailwindcss&logoColor=white"></a>
+      <a href="#"><img alt="Tailwind-CSS" src="https://img.shields.io/badge/Tailwind--CSS----blue"></a>
   </div>
 
   <h3 align="center">🗄️ Databases and Cloud Hosting</h3>
