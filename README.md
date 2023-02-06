@@ -101,12 +101,12 @@ Welcome to <a href="https://www.youtube.com/@weblintreal?sub_confirmation=1"><b>
 
 <h3> GitHub Profile Stats</h3>
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weblintreal&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![Weblintreal's GitHub stats](https://github-readme-stats.vercel.app/api?username=weblintreal&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
  
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weblintreal)](https://github.com/anuraghazra/github-readme-stats)
   
  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
  
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=weblintreal&theme=dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Weblintreal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=weblintreal&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </details>
