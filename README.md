@@ -26,10 +26,10 @@ Welcome to <a href="https://www.youtube.com/@weblintreal?sub_confirmation=1"><b>
 
 <h2 align="center">Top Projects</h2>
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/weblintreal/villa-booking-system-apis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weblintreal&repo=villa-booking-system-apis" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/weblintreal/mechtrip">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weblintreal&repo=mechtrip" />
 </a>
 </div>
