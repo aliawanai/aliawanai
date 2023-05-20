@@ -1,4 +1,4 @@
-<img src="./icons/weblint - banner.png" alt="Weblint Github Banner">
+<img src="./icons/weblint -.png" alt="Github Banner">
 
 <br/>
 <div align="center">
