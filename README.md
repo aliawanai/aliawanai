@@ -1,36 +1,34 @@
-<img src="./icons/weblint -.png" alt="Github Banner">
+<img src="./icons/techjori-github-banner.png" alt="Github Banner">
 
 <br/>
 <div align="center">
-<a href="https://www.youtube.com/@weblintreal?sub_confirmation=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Weblint Youtube Channel" height="30" width="30" /></a>&nbsp;
-<a href="https://www.instagram.com/weblintreal/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="weblint Instagram" height="30" width="30" /></a>&nbsp;
-<a href="https://www.tiktok.com/@weblintreal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg" alt="Weblint Tiktok" height="30" width="30" /></a>&nbsp;
-<a href="https://www.pinterest.com/weblintreal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pinterest.svg" alt="weblint Pinterest" height="30" width="30" /></a>&nbsp;
-<a href="https://twitter.com/weblintreal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="weblint Twitter" height="30" width="30" /></a>&nbsp;
-<a href="https://medium.com/@weblintreal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="weblint Medium" height="30" width="30" /></a>&nbsp;
-<a href="https://dev.to/weblintreal" target="blank"><img align="center" src="https://simpleicons.org/icons/devdotto.svg" alt="weblint Dev.to profile" height="30" width="30" /></a>&nbsp;
+<a href="https://www.youtube.com/@techjori?sub_confirmation=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="techjori Youtube Channel" height="30" width="30" /></a>&nbsp;
+<a href="https://www.instagram.com/techjori/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="techjori Instagram" height="30" width="30" /></a>&nbsp;
+<a href="https://www.tiktok.com/@techjori" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg" alt="techjori Tiktok" height="30" width="30" /></a>&nbsp;
+<a href="https://www.pinterest.com/techjori" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pinterest.svg" alt="techjori Pinterest" height="30" width="30" /></a>&nbsp;
+<a href="https://twitter.com/techjori" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="techjori Twitter" height="30" width="30" /></a>&nbsp;
+<a href="https://medium.com/@techjori" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="techjori Medium" height="30" width="30" /></a>&nbsp;
+<a href="https://dev.to/techjori" target="blank"><img align="center" src="https://simpleicons.org/icons/devdotto.svg" alt="techjori Dev.to profile" height="30" width="30" /></a>&nbsp;
 </div>
 <br/>
 
 <h2 align="center">About</h2>
 
-Welcome to <a href="https://www.youtube.com/@weblintreal?sub_confirmation=1"><b>Weblint</b></a>!
+Welcome to <a href="https://www.youtube.com/@techjori?sub_confirmation=1"><b>Techjori</b></a>!
 
-<p>I'm <b>Muhammad Ali</b>, a <b>software engineer</b>.</p>
+<p>I'm <b>Muhammad Ali</b>, a <b>software engineer</b>, <b>Web Developer</b>, and tech enthusiast.</p>
 
-<p>Weblint is a channel dedicated to helping those interested in web development. Here, you'll find tutorials, tips, and tricks to help you become a successful front-end and back-end developer. From HTML, CSS, and JavaScript, PHP, Python to databases, frameworks, and debugging, we've got you covered. Our goal is to provide you with all the tools you need to succeed in the exciting world of web development. </p>
-
-<p>We hope that you'll join us on this journey and help us create a community where everyone can share, learn, and grow together. </p>
+<p>Techjori is dedicated to helping those interested in software engineering, web development, and Tech.</p>
 
 <p>Thanks for stopping by and happy coding!</p>
 
 <h2 align="center">Top Projects</h2>
 <div align="center">
-<a href="https://github.com/weblintreal/villa-booking-system-apis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weblintreal&repo=villa-booking-system-apis" />
+<a href="https://github.com/techjori/villa-booking-system-apis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techjori&repo=villa-booking-system-apis" />
 </a>
-<a href="https://github.com/weblintreal/mechtrip">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weblintreal&repo=mechtrip" />
+<a href="https://github.com/techjori/mechtrip">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techjori&repo=mechtrip" />
 </a>
 </div>
 
@@ -39,13 +37,13 @@ Welcome to <a href="https://www.youtube.com/@weblintreal?sub_confirmation=1"><b>
  
  <div align="center">
  <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://streak-stats.demolab.com?user=weblintreal&theme=dark" />
+  <img align="center" src="https://streak-stats.demolab.com?user=techjori&theme=dark" />
  </a>
  </div>
 
 <div align="center">
 <h2 align="center">Latest Tweets</h2>
-<a href="https://www.twitter.com/weblintreal"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=weblintreal&amp;layout=wide" alt="github-readme-twitter"></a>
+<a href="https://www.twitter.com/techjori"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=techjori&amp;layout=wide" alt="github-readme-twitter"></a>
 </div>
 
 <div>
