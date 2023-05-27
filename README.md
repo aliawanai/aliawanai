@@ -1,4 +1,4 @@
-<img src="./icons/techjori-github-banner.png" alt="Github Banner">
+<img src="./icons/mdali-awan-banner.png" alt="Github Banner">
 
 <br/>
 <div align="center">
@@ -14,11 +14,9 @@
 
 <h2 align="center">About</h2>
 
-Welcome to <a href="https://www.youtube.com/@techjori?sub_confirmation=1"><b>Techjori</b></a>!
+<p>I'm <b>Muhammad Ali</b>, a <b>software engineer</b>, <b>Web Developer</b>, and <b>tech enthusiast.</b></p>
 
-<p>I'm <b>Muhammad Ali</b>, a <b>software engineer</b>, <b>Web Developer</b>, and tech enthusiast.</p>
-
-<p>Techjori is dedicated to helping those interested in software engineering, web development, and Tech.</p>
+<p>I am an Experienced software engineer skilled in full-stack web development with expertise in MERN stack, Node.js, and React.js. Proven track record of delivering high-quality solutions, leveraging agile methodologies and collaborating with cross-functional teams.</p>
 
 <p>Thanks for stopping by and happy coding!</p>
 
