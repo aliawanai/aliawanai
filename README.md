@@ -22,11 +22,11 @@
 
 <h2 align="center">Top Projects</h2>
 <div align="center">
-<a href="https://github.com/techjori/villa-booking-system-apis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techjori&repo=villa-booking-system-apis" />
+<a href="https://github.com/mdali-awan/villa-booking-system-apis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdali-awan&repo=villa-booking-system-apis" />
 </a>
-<a href="https://github.com/techjori/mechtrip">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techjori&repo=mechtrip" />
+<a href="https://github.com/mdali-awan/mechtrip">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdali-awan&repo=mechtrip" />
 </a>
 </div>
 
@@ -35,13 +35,13 @@
  
  <div align="center">
  <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://streak-stats.demolab.com?user=techjori&theme=dark" />
+  <img align="center" src="https://streak-stats.demolab.com?user=mdali-awan&theme=dark" />
  </a>
  </div>
 
 <div align="center">
 <h2 align="center">Latest Tweets</h2>
-<a href="https://www.twitter.com/techjori"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=techjori&amp;layout=wide" alt="github-readme-twitter"></a>
+<a href="https://www.twitter.com/mdali-awan"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=mdali-awan&amp;layout=wide" alt="github-readme-twitter"></a>
 </div>
 
 <div>
