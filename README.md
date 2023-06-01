@@ -1,4 +1,4 @@
-<img src="./icons/mdali-awan-banner.png" alt="Github Banner">
+<img src="./icons/muhammadali-pro-banner.png" alt="Github Banner">
 
 <br/>
 <div align="center">
@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/techjori/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="techjori Instagram" height="30" width="30" /></a>&nbsp;
 <a href="https://www.tiktok.com/@techjori" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg" alt="techjori Tiktok" height="30" width="30" /></a>&nbsp;
 <a href="https://www.pinterest.com/techjori" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pinterest.svg" alt="techjori Pinterest" height="30" width="30" /></a>&nbsp;
-<a href="https://twitter.com/techjori" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="techjori Twitter" height="30" width="30" /></a>&nbsp;
+<a href="https://twitter.com/muhammadali_pro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter Profile" height="30" width="30" /></a>&nbsp;
 <a href="https://medium.com/@techjori" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="techjori Medium" height="30" width="30" /></a>&nbsp;
 <a href="https://dev.to/techjori" target="blank"><img align="center" src="https://simpleicons.org/icons/devdotto.svg" alt="techjori Dev.to profile" height="30" width="30" /></a>&nbsp;
 </div>
@@ -22,11 +22,11 @@
 
 <h2 align="center">Top Projects</h2>
 <div align="center">
-<a href="https://github.com/mdali-awan/villa-booking-system-apis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdali-awan&repo=villa-booking-system-apis" />
+<a href="https://github.com/muhammadali-pro/villa-booking-system-apis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadali-pro&repo=villa-booking-system-apis" />
 </a>
-<a href="https://github.com/mdali-awan/mechtrip">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdali-awan&repo=mechtrip" />
+<a href="https://github.com/muhammadali-pro/mechtrip">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadali-pro&repo=mechtrip" />
 </a>
 </div>
 
@@ -35,13 +35,13 @@
  
  <div align="center">
  <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://streak-stats.demolab.com?user=mdali-awan&theme=dark" />
+  <img align="center" src="https://streak-stats.demolab.com?user=muhammadali-pro&theme=dark" />
  </a>
  </div>
 
 <div align="center">
 <h2 align="center">Latest Tweets</h2>
-<a href="https://www.twitter.com/mdali-awan"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=mdali-awan&amp;layout=wide" alt="github-readme-twitter"></a>
+<a href="https://www.twitter.com/muhammadali-pro"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=muhammadali-pro&amp;layout=wide" alt="github-readme-twitter"></a>
 </div>
 
 <div>
