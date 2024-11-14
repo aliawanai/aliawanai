@@ -16,6 +16,40 @@
 </ul>
 
 ---
+
+<h2>🛠️ My Skill Set</h2>
+
+<h3>🌐 Web Development</h3>
+<ul>
+  <li><strong>Frontend</strong>: HTML, CSS, Tailwind CSS, Shadcn UI, React.js, Next.js</li>
+  <li><strong>Backend</strong>: Node.js, Express.js, Nest.js</li>
+  <li><strong>Databases</strong>: MySQL, PostgreSQL, MongoDB, Supabase, Firebase</li>
+  <li><strong>Programming Languages</strong>: JavaScript, TypeScript</li>
+  <li><strong>Version Control</strong>: Git, GitHub</li>
+</ul>
+
+<h3>🔧 DevOps and Server Management</h3>
+<ul>
+  <li><strong>Ubuntu Server Management</strong>: Basic command-line skills and server setup</li>
+  <li><strong>Cloud Platforms</strong>: Basic knowledge of AWS and Google Cloud</li>
+</ul>
+
+<h3>⚙️ Automation & Integration Services</h3>
+<ul>
+  <li><strong>Automation Tools</strong>: Make.com, Zapier</li>
+  <li><strong>Custom Scripting</strong>: JavaScript and Python (upcoming)</li>
+  <li><strong>AI Integrations</strong>: Experience with popular AI APIs for chatbots, analytics, and other custom use cases</li>
+</ul>
+
+<h3>📈 Marketing & Advertising</h3>
+<ul>
+  <li><strong>Email Marketing</strong>: Building targeted email campaigns (learning)</li>
+  <li><strong>Digital Ads</strong>: Google Ads, Social Media Ads (learning)</li>
+</ul>
+
+---
+
+
 <br/>
 <div align="center">
 <a href="https://www.youtube.com/@techjori?sub_confirmation=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="techjori Youtube Channel" height="30" width="30" /></a>&nbsp;
