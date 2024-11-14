@@ -50,6 +50,21 @@
 ---
 
 
+---
+
+<h2>🛠️ Learning & Development</h2>
+<p>I'm committed to continuous growth, focusing on:</p>
+<ul>
+  <li><strong>Web Development</strong>: Python, FastAPI, Django</li>
+  <li><strong>DevOps</strong>: Docker</li>
+  <li><strong>Automation</strong>: Advanced workflows in Make.com, Zapier, and custom scripting</li>
+  <li><strong>Marketing</strong>: Email marketing, Google Ads, Social Media Ads</li>
+  <li><strong>Content Creation</strong>: Basic video editing to enhance marketing efforts</li>
+</ul>
+
+---
+
+
 <br/>
 <div align="center">
 <a href="https://www.youtube.com/@techjori?sub_confirmation=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="techjori Youtube Channel" height="30" width="30" /></a>&nbsp;
