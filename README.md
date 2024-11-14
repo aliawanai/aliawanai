@@ -7,7 +7,7 @@
 
 <h2>🚀 About Me</h2>
 <ul>
-  <li>🎓 <strong>Education</strong>: BS in Software Engineering</li>
+  <li>🎓 <strong>Education</strong>: Bachelor of computer in Software Engineering</li>
   <li>💼 <strong>Experience</strong>: Freelancing on Fiverr and Upwork since 2020</li>
   <li>🏢 <strong>Founder</strong> of Techjori LLC</li>
   <li>📜 <strong>Certification</strong>: Google Project Management (via Coursera)</li>
