@@ -1,4 +1,4 @@
-<img src="./icons/muhammadali-pro-banner.png" alt="Github Banner">
+<!--<img src="./icons/muhammadali-pro-banner.png" alt="Github Banner">-->
 <h1>👋 Hi, I'm Muhammad Ali</h1>
 
 <p>I'm a <strong>Full-Stack Web Developer</strong> specializing in the <strong>MERN stack</strong> and <strong>automation solutions</strong>. With a background in <strong>Software Engineering</strong> and years of freelancing experience, I help clients streamline and scale their operations through custom-built web applications, automation workflows, and targeted marketing strategies. I'm also the founder of <strong>Techjori LLC</strong>, a digital agency providing cutting-edge solutions in web development, automation, and AI integrations.</p>
