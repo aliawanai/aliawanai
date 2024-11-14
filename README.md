@@ -78,7 +78,7 @@
 <h2>📫 Let's Connect</h2>
 <ul>
   <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/aliawanai/">@aliawanai</a></li>
-  <li><strong>Email</strong>: <a href="mailto:info@muhammadalipro.com">Email</a></li>
+  <li><strong>Email</strong>: <a href="mailto:info@muhammadalipro.com">info@muhammadalipro.com</a></li>
   <li><strong>Twitter / X</strong>: <a href="https://x.com/aliawanai">@aliawanai</a></li>
   <li><strong>Techjori Website</strong>: <a href="https://techjori.com">techjori.com</a></li>
 </ul>
