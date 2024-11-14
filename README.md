@@ -5,7 +5,7 @@
 
 ---
 
-<h2>🚀 About Me</h2>
+## 🚀 About Me
 <ul>
   <li>🎓 <strong>Education</strong>: Bachelor of computer in Software Engineering</li>
   <li>💼 <strong>Experience</strong>: Freelancing on Fiverr and Upwork since 2020</li>
@@ -17,9 +17,9 @@
 
 ---
 
-<h2>🛠️ My Skill Set</h2>
+## 🛠️ My Skill Set
 
-<h3>🌐 Web Development</h3>
+### 🌐 Web Development
 <ul>
   <li><strong>Frontend</strong>: HTML, CSS, Tailwind CSS, Shadcn UI, React.js, Next.js</li>
   <li><strong>Backend</strong>: Node.js, Express.js, Nest.js</li>
