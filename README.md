@@ -98,29 +98,8 @@
 </div>
 <br/>
 
-<h2 align="center">Top Projects</h2>
-<div align="center">
-<a href="https://github.com/muhammadali-pro/villa-booking-system-apis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadali-pro&repo=villa-booking-system-apis" />
-</a>
-<a href="https://github.com/muhammadali-pro/mechtrip">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadali-pro&repo=mechtrip" />
-</a>
-</div>
 
 
-<h2 align="center"> Streak Stats</h2>
- 
- <div align="center">
- <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://streak-stats.demolab.com?user=muhammadali-pro&theme=dark" />
- </a>
- </div>
-
-<div align="center">
-<h2 align="center">Latest Tweets</h2>
-<a href="https://www.twitter.com/muhammadali-pro"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=muhammadali-pro&amp;layout=wide" alt="github-readme-twitter"></a>
-</div>
 
 <div>
   <h2 align="center">🛠️ My Favorite Tools</h2>
