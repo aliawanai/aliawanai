@@ -98,14 +98,6 @@
 </div>
 <br/>
 
-<h2 align="center">About</h2>
-
-<p>I'm <b>Muhammad Ali</b>, a <b>software engineer</b>, <b>Web Developer</b>, and <b>tech enthusiast.</b></p>
-
-<p>I am an Experienced software engineer skilled in full-stack web development with expertise in MERN stack, Node.js, and React.js. Proven track record of delivering high-quality solutions, leveraging agile methodologies and collaborating with cross-functional teams.</p>
-
-<p>Thanks for stopping by and happy coding!</p>
-
 <h2 align="center">Top Projects</h2>
 <div align="center">
 <a href="https://github.com/muhammadali-pro/villa-booking-system-apis">
