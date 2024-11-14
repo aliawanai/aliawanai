@@ -1,5 +1,21 @@
 <img src="./icons/muhammadali-pro-banner.png" alt="Github Banner">
-👋 Hello! I'm Muhammad Ali
+<h1>👋 Hi, I'm Muhammad Ali</h1>
+
+<p>I'm a <strong>Full-Stack Web Developer</strong> specializing in the <strong>MERN stack</strong> and <strong>automation solutions</strong>. With a background in <strong>Software Engineering</strong> and years of freelancing experience, I help clients streamline and scale their operations through custom-built web applications, automation workflows, and targeted marketing strategies. I'm also the founder of <strong>Techjori LLC</strong>, a digital agency providing cutting-edge solutions in web development, automation, and AI integrations.</p>
+
+---
+
+<h2>🚀 About Me</h2>
+<ul>
+  <li>🎓 <strong>Education</strong>: BS in Software Engineering</li>
+  <li>💼 <strong>Experience</strong>: Freelancing on Fiverr and Upwork since 2020</li>
+  <li>🏢 <strong>Founder</strong> of Techjori LLC</li>
+  <li>📜 <strong>Certification</strong>: Google Project Management (via Coursera)</li>
+  <li>🌟 <strong>Currently Learning</strong>: Python, FastAPI, Django, Docker, and advanced marketing strategies</li>
+  <li>🌱 <strong>Future Goals</strong>: Enhance expertise in automation tools like Make.com, Zapier, custom scripts, and AI integrations</li>
+</ul>
+
+---
 <br/>
 <div align="center">
 <a href="https://www.youtube.com/@techjori?sub_confirmation=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="techjori Youtube Channel" height="30" width="30" /></a>&nbsp;
