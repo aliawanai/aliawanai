@@ -64,6 +64,16 @@
 
 ---
 
+<h2>💼 Professional Services Offered through Techjori LLC</h2>
+<p>If you're a business or entrepreneur looking to streamline your operations or enhance your digital presence, <strong>Techjori LLC</strong> can help with:</p>
+<ol>
+  <li><strong>Web Development</strong>: Full-stack development using the MERN stack and responsive design principles.</li>
+  <li><strong>Automation</strong>: Workflow automation with Make.com, Zapier, and custom scripts.</li>
+  <li><strong>Digital Marketing</strong>: Email marketing, Google Ads, and social media advertising.</li>
+  <li><strong>AI Integrations</strong>: Custom AI integrations for enhanced customer experience and analytics.</li>
+</ol>
+
+
 
 <br/>
 <div align="center">
