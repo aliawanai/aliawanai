@@ -1,5 +1,5 @@
 <img src="./icons/muhammadali-pro-banner.png" alt="Github Banner">
-
+👋 Hello! I'm Muhammad Ali
 <br/>
 <div align="center">
 <a href="https://www.youtube.com/@techjori?sub_confirmation=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="techjori Youtube Channel" height="30" width="30" /></a>&nbsp;
