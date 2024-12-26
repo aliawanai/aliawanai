@@ -1,45 +1,23 @@
 <!--<img src="./icons/muhammadali-pro-banner.png" alt="Github Banner">-->
 # 👋 Hi, I'm Muhammad Ali
 
-<p>I'm a <strong>Full-Stack Web Developer</strong> specializing in the <strong>MERN stack</strong> and <strong>automation solutions</strong>. With a background in <strong>Software Engineering</strong> and years of freelancing experience, I help clients streamline and scale their operations through custom-built web applications, automation workflows, and targeted marketing strategies. I'm also the founder of <strong>Techjori LLC</strong>, a digital agency providing cutting-edge solutions in web development, automation, and AI integrations.</p>
+<p>I'm a Workflow Automation and AI Integration Specialist With a background in Software Engineering and years of experience in digital solutions, I help businesses save time, reduce costs, and scale their operations through automation workflows and AI integrations.</p>
 
 ---
 
 ## 🚀 About Me
 <ul>
   <li>🎓 <strong>Education</strong>: Bachelor of computer in Software Engineering</li>
-  <li>🏢 <strong>Founder</strong> of Techjori LLC</li>
+  <li>🏢 <strong>Founder</strong> of Techjori LLC: a digital agency specializing in workflow automation, AI Integrations, and email marketing.</li>
+  <li>⚙️ <strong>Expertise</strong>: Tools like Make, Zapier, and custom backend API development (Node.js, Python) for seamless automation and AI integration.</li>
 </ul>
 
 ---
 
-## 🛠️ My Skill Set
-
-### 🌐 Web Development
-<ul>
-  <li><strong>Frontend</strong>: <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a> , Tailwind CSS, Shadcn UI, React.js, Next.js</li>
-  <li><strong>Backend</strong>: Node.js, Express.js, Nest.js</li>
-  <li><strong>Databases</strong>: MySQL, PostgreSQL, MongoDB</li>
-  <li><strong>Programming Languages</strong>: JavaScript, TypeScript</li>
-  <li><strong>Version Control</strong>: Git, GitHub</li>
-</ul>
-
-<h3>🔧 DevOps and Server Management</h3>
-<ul>
-  <li><strong>Ubuntu Server Management</strong>: Basic command-line skills and server setup</li>
-  <li><strong>Cloud Platforms</strong>: Basic knowledge of AWS and Google Cloud</li>
-</ul>
-
-<h3>⚙️ Automation & Integration Services</h3>
-<ul>
-  <li><strong>Automation Tools</strong>: Make.com, Zapier</li>
-  <li><strong>Custom Scripting</strong>: JavaScript and Python</li>
-  <li><strong>AI Integrations</strong>: Experience with popular AI APIs for chatbots, analytics, and other custom use cases</li>
-</ul>
-
----
-
+## 🛠️ What I do?
+<li>Automate repetitive tasks and business processes to improve efficiency.</li>
+<li>Integrate AI models and tools to enhance business processes.</li>
+<li>Create scalable, custom automation solutions tailored to client needs.</li>
 
 
 ---
