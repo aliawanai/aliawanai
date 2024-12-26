@@ -35,12 +35,11 @@
 
 <br/>
 <div align="center">
-<a href="https://www.youtube.com/@techjori?sub_confirmation=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="techjori Youtube Channel" height="30" width="30" /></a>&nbsp;
-<a href="https://www.instagram.com/techjori/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="techjori Instagram" height="30" width="30" /></a>&nbsp;
-<a href="https://www.tiktok.com/@techjori" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg" alt="techjori Tiktok" height="30" width="30" /></a>&nbsp;
-<a href="https://www.pinterest.com/techjori" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pinterest.svg" alt="techjori Pinterest" height="30" width="30" /></a>&nbsp;
-<a href="https://twitter.com/muhammadali_pro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter Profile" height="30" width="30" /></a>&nbsp;
-<a href="https://medium.com/@techjori" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="techjori Medium" height="30" width="30" /></a>&nbsp;
-<a href="https://dev.to/techjori" target="blank"><img align="center" src="https://simpleicons.org/icons/devdotto.svg" alt="techjori Dev.to profile" height="30" width="30" /></a>&nbsp;
+<a href="[https://www.youtube.com/@aliawanai?sub_confirmation=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Youtube Channel" height="30" width="30" /></a>&nbsp;
+<a href="https://www.instagram.com/aliawanai/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram Profile" height="30" width="30" /></a>&nbsp;
+<a href="https://www.tiktok.com/@aliawanai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg" alt="Tiktok Profile" height="30" width="30" /></a>&nbsp;
+<a href="pinterest.com/aliawanai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pinterest.svg" alt="Pinterest Profile" height="30" width="30" /></a>&nbsp;
+<a href="twitter.com/aliawanai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter Profile" height="30" width="30" /></a>&nbsp;
+<a href="https://dev.to/aliawanai" target="blank"><img align="center" src="https://simpleicons.org/icons/devdotto.svg" alt="Dev.to profile" height="30" width="30" /></a>&nbsp;
 </div>
 <br/>
