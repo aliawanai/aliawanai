@@ -1,7 +1,7 @@
 <!--<img src="./icons/muhammadali-pro-banner.png" alt="Github Banner">-->
 # 👋 Hi, I'm Muhammad Ali
 
-<p>I'm a Workflow Automation and AI Integration Specialist With a background in Software Engineering and years of experience in digital solutions, I help businesses save time, reduce costs, and scale their operations through automation workflows and AI integrations.</p>
+<p>I'm a Workflow Automation and AI Integration Specialist. With a background in Software Engineering and years of experience in digital solutions, I help businesses save time, reduce costs, and scale their operations through automation workflows and AI integrations.</p>
 
 ---
 
