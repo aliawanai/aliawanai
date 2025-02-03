@@ -1,27 +1,27 @@
 <!--<img src="./icons/muhammadali-pro-banner.png" alt="Github Banner">-->
 # 👋 Hi, I'm Muhammad Ali
 
-<p>I'm a Workflow Automation and AI Integration Specialist. With a background in Software Engineering and years of experience in digital solutions, I help businesses save time, reduce costs, and scale their operations through automation workflows and AI integrations.</p>
+<p>I'm a MERN stack developer. </p>
 
 ---
 
 ## 🚀 About Me
 <ul>
   <li>🎓 <strong>Education</strong>: Bachelor of computer in Software Engineering</li>
-  <li>🏢 <strong>Founder</strong> of Techjori LLC: a digital agency specializing in workflow automation, AI Integrations, and email marketing.</li>
-  <li>⚙️ <strong>Expertise</strong>: Tools like Make, Zapier, and custom backend API development (Node.js, Python) for seamless automation and AI integration.</li>
+  <!--<li>🏢 <strong>Founder</strong> of Techjori LLC: a digital agency specializing in workflow automation, AI Integrations, and email marketing.</li>-->
+  <!--<li>⚙️ <strong>Expertise</strong>: Tools like Make, Zapier, and custom backend API development (Node.js, Python) for seamless automation and AI integration.</li>-->
 </ul>
 
 ---
-
+<!--
 ## 🛠️ What I do?
 <li>Automate repetitive tasks and business processes to improve efficiency.</li>
 <li>Integrate AI models and tools to enhance business processes.</li>
 <li>Create scalable, custom automation solutions tailored to client needs.</li>
-
+-->
 
 ---
-
+<!--
 <h2>📫 Let's Connect</h2>
 <ul>
   <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/aliawanai/">@aliawanai</a></li>
@@ -29,7 +29,7 @@
   <li><strong>Twitter / X</strong>: <a href="https://x.com/aliawanai">@aliawanai</a></li>
   <li><strong>Techjori Website</strong>: <a href="https://techjori.com">techjori.com</a></li>
 </ul>
-
+-->
 ---
 
 
