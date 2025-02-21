@@ -1,4 +1,4 @@
-<!--<img src="./icons/muhammadali-pro-banner.png" alt="Github Banner">-->
+<img src="./images/github-banner.png" alt="Github Banner">
 
 # 👋 Hi, I'm Muhammad Ali  
 
