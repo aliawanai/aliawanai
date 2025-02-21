@@ -1,6 +1,6 @@
 <!--<img src="./icons/muhammadali-pro-banner.png" alt="Github Banner">-->
 
-# 👋 Hi, I'm Muhammad Ali (Ali Awan)  
+# 👋 Hi, I'm Muhammad Ali  
 
 🚀 **Full-Stack AI Engineer | Workflow Automation Expert | Founder @Techjori**  
 🎓 Bachelor of computer in Software Engineering<br> 
