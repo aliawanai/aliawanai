@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Muhammad Ali
 
 🚀 **Full-Stack AI Engineer | Workflow Automation Expert**  
-💡 Passionate about AI-powered web apps, automation, data science, and data analytics.
+💡 Passionate about AI-powered web apps, automation, data science, and data analytics.<br>/
 🎓 <strong>Education</strong>: Bachelor of computer in Software Engineering
 
 ---
@@ -14,21 +14,11 @@
 
 
 ## 📫 Let's Connect:  
-- 🌐 [Website/Portfolio](#)  
-- 🐦 [Twitter](https://twitter.com/aliawanai)  
+- 🌐 [Personal Website](https://muhammadalipro.com)  
+- 🐦 [X](https://x.com/aliawanai)  
 - 🔗 [LinkedIn](https://linkedin.com/in/aliawanai)  
 - 📺 [YouTube](https://youtube.com/@aliawanai)
 
----
-<!--
-<h2>📫 Let's Connect</h2>
-<ul>
-  <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/aliawanai/">@aliawanai</a></li>
-  <li><strong>Email</strong>: <a href="mailto:info@muhammadalipro.com">info@muhammadalipro.com</a></li>
-  <li><strong>Twitter / X</strong>: <a href="https://x.com/aliawanai">@aliawanai</a></li>
-  <li><strong>Techjori Website</strong>: <a href="https://techjori.com">techjori.com</a></li>
-</ul>
--->
 ---
 
 
