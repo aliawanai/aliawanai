@@ -2,7 +2,8 @@
 # 👋 Hi, I'm Muhammad Ali
 
 🚀 **Full-Stack AI Engineer | Workflow Automation Expert**  
-💡 Passionate about **AI-powered web apps, automation, and data-driven technologies**  
+💡 Passionate about AI-powered web apps, automation, data science, and data analytics.
+🎓 <strong>Education</strong>: Bachelor of computer in Software Engineering
 
 ---
 ## 🔥 What I Do:  
@@ -17,22 +18,6 @@
 - 🐦 [Twitter](https://twitter.com/aliawanai)  
 - 🔗 [LinkedIn](https://linkedin.com/in/aliawanai)  
 - 📺 [YouTube](https://youtube.com/@aliawanai)
-
-  
-## 🚀 About Me
-<ul>
-  <li>🎓 <strong>Education</strong>: Bachelor of computer in Software Engineering</li>
-  <!--<li>🏢 <strong>Founder</strong> of Techjori LLC: a digital agency specializing in workflow automation, AI Integrations, and email marketing.</li>-->
-  <!--<li>⚙️ <strong>Expertise</strong>: Tools like Make, Zapier, and custom backend API development (Node.js, Python) for seamless automation and AI integration.</li>-->
-</ul>
-
----
-<!--
-## 🛠️ What I do?
-<li>Automate repetitive tasks and business processes to improve efficiency.</li>
-<li>Integrate AI models and tools to enhance business processes.</li>
-<li>Create scalable, custom automation solutions tailored to client needs.</li>
--->
 
 ---
 <!--
