@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Muhammad Ali (Ali Awan)  
 
-🚀 **Full-Stack AI Engineer | Workflow Automation Expert | Founder @TechJori**  
+🚀 **Full-Stack AI Engineer | Workflow Automation Expert | Founder @Techjori**  
 🎓 Bachelor of computer in Software Engineering<br> 
 💡 Passionate about AI-powered web apps, automation, data science, and analytics
 
