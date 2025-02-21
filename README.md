@@ -7,9 +7,9 @@
 ---
 ## 🔥 What I Do:  
 - 🖥 **Full-Stack AI Development** – MERN Stack, Python, FastAPI, Django & more  
-- 🤖 **AI Engineering & Integration** – Integrating AI models like OpenAI (GPT), LLaMA, Whisper, Stable Diffusion, ElevenLabs, HygenAI, and other foundation models into real-world applications.  
+- 🤖 **AI Engineering & Integration** – Integrating OpenAI (GPT), LLaMA, Whisper, ElevenLabs, HygenAI, and other foundation models into real applications.
 - ⚡ **Workflow Automation** – Streamlining business operations with Make.com, Zapier, n8n, and AI Agents.  
-- 📊 **Exploring Data Science & Analytics** – Continuously expanding my knowledge in data-driven technologies to enhance AI capabilities.
+- 📊 **Exploring Data Science & Data Analytics** – Continuously expanding my knowledge in data-driven technologies to enhance AI capabilities.
 
 
 ## 📫 Let's Connect:  
