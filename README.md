@@ -1,10 +1,24 @@
 <!--<img src="./icons/muhammadali-pro-banner.png" alt="Github Banner">-->
 # 👋 Hi, I'm Muhammad Ali
 
-<p>I'm a MERN stack developer. </p>
+🚀 **Full-Stack AI Engineer | Workflow Automation Expert**  
+💡 Passionate about **AI-powered web apps, automation, and data-driven technologies**  
 
 ---
+## 🔥 What I Do:  
+- 🖥 **Full-Stack AI Development** – MERN Stack, Python, FastAPI, Django & more  
+- 🤖 **AI Engineering & Integration** – GPT, LLaMA, Whisper, Stable Diffusion & other models  
+- ⚡ **Automation & AI Agents** – Zapier, Make.com, n8n & AI workflows  
+- 📊 **Exploring Data Science & Analytics**
 
+
+## 📫 Let's Connect:  
+- 🌐 [Website/Portfolio](#)  
+- 🐦 [Twitter](https://twitter.com/aliawanai)  
+- 🔗 [LinkedIn](https://linkedin.com/in/aliawanai)  
+- 📺 [YouTube](https://youtube.com/@aliawanai)
+
+  
 ## 🚀 About Me
 <ul>
   <li>🎓 <strong>Education</strong>: Bachelor of computer in Software Engineering</li>
