@@ -17,7 +17,7 @@
 <br/>
 <div align="center">
 <a href="https://linkedin.com/in/aliawanai" target="blank"><image align="center" src="https://img.icons8.com/?size=100&id=8808&format=png&color=000000" height="30" width="30" /></a>
-<a href="[https://www.youtube.com/@aliawanai?sub_confirmation=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Youtube Channel" height="30" width="30" /></a>&nbsp;
+<a href="https://www.youtube.com/@aliawanai?sub_confirmation=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Youtube Channel" height="30" width="30" /></a>&nbsp;
 <a href="https://www.instagram.com/aliawanai/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram Profile" height="30" width="30" /></a>&nbsp;
 <a href="https://www.tiktok.com/@aliawanai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg" alt="Tiktok Profile" height="30" width="30" /></a>&nbsp;
 <a href="pinterest.com/aliawanai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pinterest.svg" alt="Pinterest Profile" height="30" width="30" /></a>&nbsp;
