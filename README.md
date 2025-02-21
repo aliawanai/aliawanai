@@ -2,8 +2,8 @@
 # 👋 Hi, I'm Muhammad Ali
 
 🚀 **Full-Stack AI Engineer | Workflow Automation Expert**  
-💡 Passionate about AI-powered web apps, automation, data science, and data analytics.<br>/
-🎓 <strong>Education</strong>: Bachelor of computer in Software Engineering
+🎓 <strong>Education</strong>: Bachelor of computer in Software Engineering<br>
+💡 Passionate about AI-powered web apps, automation, data science, and data analytics.
 
 ---
 ## 🔥 What I Do:  
