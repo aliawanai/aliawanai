@@ -2,16 +2,16 @@
 
 # 👋 Hi, I'm Muhammad Ali (Ali Awan)  
 
-🚀 **Full-Stack AI Engineer | Founder @TechJori**  
-🎓 Bachelor's in Software Engineering  
-💡 Passionate about **AI-powered web apps, automation, data science, and analytics**  
+🚀 **Full-Stack AI Engineer | Workflow Automation Expert | Founder @TechJori**  
+🎓 Bachelor of computer in Software Engineering<br> 
+💡 Passionate about AI-powered web apps, automation, data science, and analytics
 
 ---
 
 ## 🔥 What I Do:  
-- 🖥 **Full-Stack AI Development** – MERN Stack, Python, FastAPI, Django & more  
+- 🖥 **Full-Stack AI Development** – MERN Stack,Nest.js, Next.js, Python, FastAPI, Django & more  
 - 🤖 **AI Engineering & Integration** – OpenAI (GPT), LLaMA, ElevenLabs, HygenAI, and other foundation models  
-- ⚡ **Workflow Automation** – Make.com, Zapier, n8n, AI Agents  
+- ⚡ **Workflow Automation** – Make.com, Zapier, n8n, AI Agents.  
 - 📊 **Exploring Data Science & Analytics** – Continuously expanding my knowledge in data-driven technologies  
 
 ---
