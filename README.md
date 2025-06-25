@@ -2,22 +2,24 @@
 
 # 👋 Hi, I'm Muhammad Ali  
 
-🚀 **Full-Stack AI Engineer | Workflow Automation Expert | Founder @Techjori**  
+🚀 **Email Marketing & AI/Workflow Automation Specialist | Founder @Techjori**  
 🎓 Bachelor of computer in Software Engineering<br> 
-💡 Passionate about AI-powered web apps, automation, data science, and analytics
+💡 Passionate about AI, Workflow Automation, Email marketing, and B2B Lead Generation
 
 ---
 
-## 🔥 What I Do:  
-- 🖥 **Full-Stack AI Development** – MERN Stack,Nest.js, Next.js, Python, FastAPI, Django & more  
-- 🤖 **AI Engineering & Integration** – OpenAI (GPT), LLaMA, ElevenLabs, HygenAI, and other foundation models  
-- ⚡ **Workflow Automation** – Make.com, Zapier, n8n, AI Agents.  
-- 📊 **Exploring Data Science & Analytics** – Continuously expanding my knowledge in data-driven technologies  
+## 🔥 What I Do
+
+- 📩 **Done-for-You Cold Email Marketing** – Full outreach systems for B2B lead generation using Instantly, Apollo, custom domains, and email warmups  
+- 🤖 **AI & Workflow Automation** – Automating repetitive tasks using Zapier, Make.com, n8n, and AI agents  
+- 🔗 **Tech Stack Integration** – Seamlessly connecting tools like CRMs, OpenAI, Google Sheets, Notion, Slack, and more  
+- 📈 **B2B Growth Systems** – Helping businesses scale with automated lead flows and smart outreach strategies  
+
 
 ---
 
 ## 📩 Let’s Connect!  
-I’m open to **full-time remote roles, freelance projects, and collaborations** in AI development, full-stack engineering, and automation. **Feel free to reach out!**  
+I’m open to **full-time remote roles, freelance projects, and collaborations** in AI Automation, Email Marketing, and B2B Lead Generation. **Feel free to reach out!**  
 
 <br/>
 <div align="center">
